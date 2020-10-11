@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    background-color: rgb(31, 31, 31);
+    color: whitesmoke;
+    padding-bottom: 15px;
+    padding-top: 5px;
+    width: 100%;
+    background-size: auto;
+
+}
+
+footer{
+    background-color: rgb(31, 31, 31);
+    color: whitesmoke;
+    float: none;
+    position: absolute;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    bottom: 0px;
+    width: 100%;
+    background-size: auto;
+
+     
+}
+
+label {
+    padding-bottom: 5px;
+    padding-top: 50px;
+}
